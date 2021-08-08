@@ -1,6 +1,6 @@
 /**
-* Template Name: FlexStart - v1.4.0
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
+* Template Name: Mathsend Solutions - v1.4.0
+* Template URL: https://bootstrapmade.com/Mathsend Solutions-bootstrap-startup-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
